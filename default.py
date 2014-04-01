@@ -71,34 +71,6 @@ def platformdef():
 
 	return "Unknown"
 
-def fread(filename):
-	ver = ''
-	h = open(filename, "r")
-	try:
-		data = h.read()
-	finally:
-		h.close()
-	return data
-
-def fwrite(filename, data):
-	h = open(filename, "wb")
-	try:
-		h.write(data)
-	finally:
-		h.close()
-
-def get_visitorid():
-	if os.path.isfile(VISITOR_FILE):
-		visitor_id = fread(VISITOR_FILE)
-	else:
-		from random import randint
-		visitor_id = str(randint(0, 0x7fffffff))
-		fwrite(VISITOR_FILE, visitor_id)
-
-	return visitor_id
-
-__visitor__ = get_visitorid()
-
 def get_params():
         param=[]
         paramstring=sys.argv[2]
