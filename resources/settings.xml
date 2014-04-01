@@ -1,0 +1,14 @@
+<settings>
+	<!-- User Info -->
+<!--
+	<category label="30030">
+		<setting type="sep" />
+		<setting id="proxy_enable" type="bool" label="30042" default="false"/>
+		<setting id="proxy" type="text" label="30040" default=""/>
+		<setting id="proxy_port" type="text" label="30041" default=""/>
+		<setting id="proxy_user" type="text" label="30043" default=""/>
+		<setting id="proxy_pass" type="text" label="30044" default=""/>
+		<setting type="sep" />
+	</category>
+-->
+</settings>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<string id="30023">Network</string>
+	
+	<string id="30030">Proxy</string>
+	<string id="30040">Proxy IP</string>
+	<string id="30041">Port</string>
+	<string id="30042">Enable Proxy</string>
+	<string id="30043">User Name</string>
+	<string id="30044">Password</string>
+</strings>
