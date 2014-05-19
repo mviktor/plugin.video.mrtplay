@@ -36,7 +36,7 @@ For anything else, you can contact me at [forum.xbmc.org] [moneymaker].
 
 [repository]: https://github.com/moneymaker365/repository.xbmcplus.xbmc-plugins/releases
 [githubzip]: https://github.com/moneymaker365/plugin.video.mrtplay/archive/master.zip
-[issues]: https://github.com/moneymaker365/plugin.video.ustvvod/issues
+[issues]: https://github.com/moneymaker365/plugin.video.mrtplay/issues
 [gist]: https://gist.github.com
 [moneymaker]: http://forum.xbmc.org/member.php?action=profile&uid=116826
 [xbmc-wiki-log-file]: http://wiki.xbmc.org/index.php?title=Log_file/Advanced#Log_files
