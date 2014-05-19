@@ -35,7 +35,7 @@ Contact Me
 For anything else, you can contact me at [forum.xbmc.org] [moneymaker].
 
 [repository]: https://github.com/moneymaker365/repository.xbmcplus.xbmc-plugins/releases
-[githubzip]: https://github.com/moneymaker365/plugin.video.ustvvod/archive/master.zip
+[githubzip]: https://github.com/moneymaker365/plugin.video.mrtplay/archive/master.zip
 [issues]: https://github.com/moneymaker365/plugin.video.ustvvod/issues
 [gist]: https://gist.github.com
 [moneymaker]: http://forum.xbmc.org/member.php?action=profile&uid=116826
